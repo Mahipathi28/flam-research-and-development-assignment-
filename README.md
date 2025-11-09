@@ -1,6 +1,6 @@
 **Research and Development / AI – Parametric Curve Estimation**
 
-**Problem Statement**
+**Problem Statement** 
 
 The goal is to determine the values of the unknown parameters **θ**, **M**, and **X** in the following parametric equations:
 
